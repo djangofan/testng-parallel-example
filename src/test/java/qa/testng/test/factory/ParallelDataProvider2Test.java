@@ -21,7 +21,7 @@ public class ParallelDataProvider2Test {
 	}
 
 	@Test(dataProvider = "provide", dataProviderClass = TestProvider.class)
-	public void checkCME1( final Integer i ) {
+	public void check1( final Integer i ) {
 		Reporter.log( "{" + this.getClass().getSimpleName() + "} Thread-" + threadId + "[" + num + "]: " + i, true );
 		waitFor(25);
 	}
