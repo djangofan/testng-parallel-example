@@ -1,0 +1,2573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="150" passed="150">
+  <reporter-output>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 9]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 0]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 1]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 2]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 4]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 3]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 5]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 7]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 8]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 6]]>
+    </line>
+    <line>
+      <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 9]]>
+    </line>
+  </reporter-output>
+  <suite name="Main Test Suite" duration-ms="301" started-at="2014-04-19T03:28:43Z" finished-at="2014-04-19T03:28:43Z">
+    <groups>
+    </groups>
+    <test name="Main Test Group" duration-ms="301" started-at="2014-04-19T03:28:43Z" finished-at="2014-04-19T03:28:43Z">
+      <class name="qa.testng.test.ParallelDataProvider1Test">
+        <test-method status="PASS" signature="before()[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="before" is-config="true" duration-ms="3" started-at="2014-04-18T20:28:43Z" finished-at="2014-04-18T20:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="before()[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="before" is-config="true" duration-ms="0" started-at="2014-04-18T20:28:43Z" finished-at="2014-04-18T20:28:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@1e2db6ea]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[43]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@4b43cc20]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[44]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@500e6f7a]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-1[45]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@573ddbdd]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[42]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.ParallelDataProvider1Test@59e91c40]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider1Test} Thread-0[41]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+      </class> <!-- qa.testng.test.ParallelDataProvider1Test -->
+      <class name="qa.testng.test.factory.ParallelDataProvider2Test">
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="28" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@2006eb91]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[1]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="31" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="30" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="30" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@26538d04]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[2]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@28fd3fba]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[4]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@374f1544]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[3]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@3eae389d]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[0]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@526abde0]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[7]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@5dd7e765]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[8]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@61b96457]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[6]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@998c805]" name="checkCME1" duration-ms="27" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-1[9]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="26" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 8]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 7]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+        <test-method status="PASS" signature="checkCME1(java.lang.Integer)[pri:0, instance:qa.testng.test.factory.ParallelDataProvider2Test@a62e15c]" name="checkCME1" duration-ms="25" started-at="2014-04-18T20:28:43Z" data-provider="provide" finished-at="2014-04-18T20:28:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[{ParallelDataProvider2Test} Thread-0[5]: 6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- checkCME1 -->
+      </class> <!-- qa.testng.test.factory.ParallelDataProvider2Test -->
+    </test> <!-- Main Test Group -->
+  </suite> <!-- Main Test Suite -->
+</testng-results>
